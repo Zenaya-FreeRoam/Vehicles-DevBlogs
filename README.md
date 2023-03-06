@@ -1,12 +1,15 @@
-
 <h1 align="center"><b>Vehicles of DevBlog N°4 of 03/06/2023</b></h1>
-<br>
 <h3 align="center"><b>Here you will find all the vehicles added in this new update of the Zenaya server.</b></h3>
-<br>
+
+<div align="center">
+
+[<img src="https://badgen.net/badge/10/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/1/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
+
+</div>
 	
 ## **About Real Brand Car**
 <div>
-<picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_real_veh.svg" width = 250px></picture>
+<picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_real.svg" width = 250px></picture>
 <br>
 
 |BRAND|MODEL|YEAR|TUNING<br>PARTS|EXTRA<br>PARTS|
@@ -61,6 +64,7 @@
 <br>
 
 [<img src="https://badgen.net/badge/Discord/Join%20to%20chill%20with%20us/?icon=https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg&scale=2&color=2C2F33&labelColor=5865F2">](https://discord.gg/tc3rPYEzj7)
+<br>
 <br>
 [<img src="https://badgen.net/badge/FiveM/Play%20on%20Zenaya/?icon=https://designeya.fr/webroot/images/github_zenaya_fivem_white.svg&scale=2&color=2C2F33&labelColor=ff6f00">](https://cfx.re/join/kakp67)
 <br>
