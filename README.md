@@ -11,7 +11,7 @@
 <br>
 
 |BRAND|MODEL|YEAR|TUNING PARTS|
-|:----|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|
 | |
 |Devel|Sixteen|2022|✗|
 |Dodge|Charger RT 426 HEMI|1969|✗|
@@ -26,7 +26,7 @@
 <br>
 
 |UNIVERS|BRAND|MODEL|YEAR|TUNING PARTS|
-|:----|:----:|:----:|:----:|:----:|
+|:----:|:----:|:----:|:----:|:----:|
 | |
 |✗|BRM|335 Reconnaissance|✗|✗|
 </div>
