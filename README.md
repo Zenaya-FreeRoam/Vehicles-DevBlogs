@@ -10,15 +10,15 @@
 
 <br>
 
-|BRAND|MODEL|YEAR|TUNING PARTS|
-|:----:|:----:|:----:|:----:|
+|BRAND|MODEL|YEAR|TUNING PARTS|EXTRA PARTS|
+|:----:|:----:|:----:|:----:|:----:|
 | |
-|Devel|Sixteen|2022|✗|
-|Dodge|Charger RT 426 HEMI|1969|<font color="#00ff00">✓</font>|
-|Ford|Mustang GT390 FastBack|1968|✓|
-|ItalDesign|Zerouno Duerta|2018|✗|
-|Mercedes-Benz|SLR McLaren|2005|✗|
-|Zenvo|TSR-S|2019|✗|
+|Devel|Sixteen|2022|✗|✗|
+|Dodge|Charger RT 426 HEMI|1969|✗|?|
+|Ford|Mustang GT390 FastBack|1968|✓|?|
+|ItalDesign|Zerouno Duerta|2018|✗|?|
+|Mercedes-Benz|SLR McLaren|2005|✗|?|
+|Zenvo|TSR-S|2019|✗|?|
 </div>
 <br><br><br><br>
 	
@@ -31,6 +31,20 @@
 |UNIVERS|BRAND|MODEL|YEAR|TUNING PARTS|
 |:----:|:----:|:----:|:----:|:----:|
 | |
-|✗|BRM|335 Reconnaissance|✗|✗|
+|?|BRM|335 Reconnaissance|?|✗|?|
+</div>
+<br><br><br><br>
+
+## **Meanings of the symbols**
+<div align="center">
+
+<br>
+
+|Symbols|Meanings|
+|:----:|:----:|:----:|:----:|:----:|
+| |
+|✓|Compatible • Available|
+|✗|Not Compatible • Not Available|
+|?|Not Known • To be determined|
 </div>
 <br><br><br><br>
