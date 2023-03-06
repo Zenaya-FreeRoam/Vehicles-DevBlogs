@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[<img src="https://badgen.net/badge/15/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/3/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
+[<img src="https://badgen.net/badge/15/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/4/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
 
 </div>
 	
@@ -46,6 +46,7 @@
 |?|BRM|335 Reconnaissance|?|✗|?|
 |?|Mike|Armored Raptor 8x8|?|✗|?|
 |Halo 4<br>Halo 5|AMG Transport<br>Dynamics|M12S WARTHOG CST|2554|✗|?|
+|Halo 4<br>Halo 5|AMG Transport<br>Dynamics|M12S WARTHOG CST<br>Armored|2554|✗|?|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
