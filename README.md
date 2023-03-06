@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[<img src="https://badgen.net/badge/10/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/1/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
+[<img src="https://badgen.net/badge/12/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/2/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
 
 </div>
 	
@@ -25,6 +25,11 @@
 |Renault|Talisman Estate|2016|✗|?|
 |W-Motors|Lykan Hypersport|2016|✗|?|
 |xPeng|P7|2020|✗|?|
+|Rimac|Concept Two|2019|✗|?|
+|Renault|Megane IV RS|2022|✗|?|
+|Czinger|21c|2021|✗|?|
+|Apollo|Intensa Emozione|2019|✗|?|
+|Bugatti|C16 Galibier|2010|✗|?|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
@@ -39,6 +44,8 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 | |
 |?|BRM|335 Reconnaissance|?|✗|?|
+|?|Mike|Armored Raptor 8x8|?|✗|?|
+|Halo|AMG Transport<br>Dynamics|M12S WARTHOG CST
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
