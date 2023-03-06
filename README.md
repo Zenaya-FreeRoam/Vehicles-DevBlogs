@@ -45,8 +45,8 @@
 | |
 |?|BRM|335 Reconnaissance|?|✗|?|
 |?|Mike|Armored Raptor 8x8|?|✗|?|
-|Halo 4<br>Halo 5|AMG Transport<br>Dynamics|M12S WARTHOG CST|2554|✗|?|
-|Halo 4<br>Halo 5|AMG Transport<br>Dynamics|M12S WARTHOG CST<br>Armored|2554|✗|?|
+|Halo 4<br>Halo 5|AMG Transport<br>Dynamics|M12S Warthog CST|2554|✗|?|
+|Halo 4<br>Halo 5|AMG Transport<br>Dynamics|M12S Warthog CST<br>Armored|2554|✗|?|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
