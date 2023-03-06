@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Vehicles of DevBlog N°4</b></h1>
+<h1 align="center"><b>Vehicles of DevBlog N°4 of 03/06/2023</b></h1>
 <br>
 <h3 align="center"><b>Here you will find all the vehicles added in this new update of the Zenaya server.</b></h3>
 <br>
@@ -13,11 +13,15 @@
 |:----:|:----:|:----:|:----:|:----:|
 | |
 |Devel|Sixteen|2022|✗|✗|
-|Dodge|Charger RT 426 HEMI|1969|✗|?|
+|Dodge|Charger RT 426 HEMI|1969|✓|?|
 |Ford|Mustang GT390 FastBack|1968|✓|?|
 |ItalDesign|Zerouno Duerta|2018|✗|?|
 |Mercedes-Benz|SLR McLaren|2005|✗|?|
 |Zenvo|TSR-S|2019|✗|?|
+|SSC|Tatuara Striker|2022|✗|?|
+|Renault|Talisman Estate|2016|✗|?|
+|W-Motors|Lykan Hypersport|2016|✗|?|
+|xPeng|P7|2020|✗|?|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
