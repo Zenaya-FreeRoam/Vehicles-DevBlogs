@@ -14,7 +14,7 @@
 |:----:|:----:|:----:|:----:|
 | |
 |Devel|Sixteen|2022|✗|
-|Dodge|Charger RT 426 HEMI|1969|<span style="color: green">✓</span>|
+|Dodge|Charger RT 426 HEMI|1969|<font color"green">✓</font>|
 |Ford|Mustang GT390 FastBack|1968|✓|
 |ItalDesign|Zerouno Duerta|2018|✗|
 |Mercedes-Benz|SLR McLaren|2005|✗|
