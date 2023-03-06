@@ -41,7 +41,7 @@
 <br>
 
 |Symbols|Meanings|
-|:----:|:----:|:----:|:----:|:----:|
+|:----:|:----:|
 | |
 |✓|Compatible • Available|
 |✗|Not Compatible • Not Available|
