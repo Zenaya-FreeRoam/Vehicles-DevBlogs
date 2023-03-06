@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[<img src="https://badgen.net/badge/15/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/4/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
+[<img src="https://badgen.net/badge/19/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/4/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
 
 </div>
 	
@@ -26,10 +26,14 @@
 |W-Motors|Lykan Hypersport|2016|✗|?|
 |xPeng|P7|2020|✗|?|
 |Rimac|Concept Two|2019|✗|?|
-|Renault|Megane IV RS|2022|✗|?|
+|Renault|Megane 4 RS|2022|✗|?|
 |Czinger|21c|2021|✗|?|
 |Apollo|Intensa Emozione|2019|✗|?|
 |Bugatti|C16 Galibier|2010|✗|?|
+|Dodge|Ram SRT-10|2006|✗|?|
+|Dodge|Ram SRT-10 (Drag)|2006|✗|?|
+|Renault|Megane 3 Trophy V6|2012|✓|?|
+|Nissan|GT-R R35 Nismo|2016|✓|?|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
