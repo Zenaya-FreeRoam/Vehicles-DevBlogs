@@ -1,9 +1,9 @@
-<h1 align="center"><b>Vehicles of DevBlog N°4 of 03/06/2023</b></h1>
+<h1 align="center"><b>Vehicles of DevBlog N°5 of 03/08/2023</b></h1>
 <h3 align="center"><b>Here you will find all the vehicles added in this new update of the Zenaya server.</b></h3>
 
 <div align="center">
 
-[<img src="https://badgen.net/badge/%3f%3f/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/%3f%3f/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
+[<img src="https://badgen.net/badge/39/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/3/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
 
 </div>
 	
@@ -12,10 +12,48 @@
 <picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_real.svg" width = 250px></picture>
 <br>
 
-|BRAND|MODEL|YEAR|TUNING<br>PARTS|EXTRA<br>PARTS|
-|:----:|:----:|:----:|:----:|:----:|
+|BRAND|MODEL|YEAR|TUNING<br>PARTS|✓✗
+|:----:|:----:|:----:|:----:|
 | |
-|Exemple|Exemple|Exemple|✓|✗|
+|Audi|TT RS|2010|✓|
+|Lamborghini|Calà|1995|✗|
+|Audi|RS6 Avant|2020|✓|
+|Ferrari|Portofino|2018|✗|
+|Ferrari|Roma|2020|✗|
+|Audi|R8 V10 Spider|2020|✗|
+|Lamborghini|Countach LPI 800-4|2020|✗|
+|Chevrolet|Corvette C8 Z06|2023|✗|
+|Nissan|GT-R50 Italdesign|2021|✗|
+|Pininfarina|Battista|2020|2020|✗|
+|Aston Martin|Vanquish Zagato<br>Shooting Brake|2019|✗|
+|Volkswagen|Beetle Kahakai Edition|1967|✗|
+|Bugatti|Chiron Pur Sport<br>Edition GP|2022|✗|
+|Bentley|Continental GT<br>First Edition|2018|✗|
+|Ford|Mustang Mach-E 1400|2021|✗|
+|Lotus|Evija|2020|✗|
+|Lamborghini|Sian Roadster|2021|✗|
+|Dodge|Charger RT HEMI<br>Fast & Furious 9|1966|✗|
+|KTM|X-BOW GTX|2020|✗|
+|Hennessey|Venom F5|2022|✗|
+|Lamborghini|Gallardo LP 570-4<br>Spyder Performante|2012|✓|
+|Porsche|911 Turbo S|2021|✗|
+|Bugatti|Veryon 16.4 OffRoad|2014|✗|
+|ATS|GT|2018|✗|
+|Abarth|124 Spider|2014|✗|
+|Smart|Fortwo M13 Bellator|2020|✗|
+|Smart|Fortwo|2017|✗|
+|Bugatti|Veyron Grand Sport Vitesse<br>+3 new rims|2014|✓|
+|GMC|Vandura A-TEAM|1983|✗|
+|Ford|Coupe Deluxe (Hotrod)|1932|✗|
+|Ford|Roadster Hulagirl (Hotrod)|1932|✗|
+|Ford|Window Coupe (Hotrod)|1934|✗|
+|Dodge|Charger RT<br>Fast & Furious 7|1970|✗|
+|Mercury|Eight Coupe|1949|✗|
+|Chevrolet|Fleetline Deluxe (Hotrod)<br>Fast & Furious|1949|✗|
+|Lamborghini|Aventador LP700-4|2012|✓|
+|Lamborghini|Urus<br>+4 new rims|2021|✓|
+|Lamborghini|Reventón|2008|✓|
+|Mercedes-Benz|SLK 55 AMG|2012|✓|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
@@ -26,12 +64,15 @@
 <picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_imaginary.svg" width = 250px></picture>
 <br>
 
-|UNIVERS|BRAND|MODEL|YEAR|TUNING<br>PARTS|EXTRA<br>PARTS|
-|:----:|:----:|:----:|:----:|:----:|:----:|
+|UNIVERS|BRAND|MODEL|YEAR|TUNING<br>PARTS|
+|:----:|:----:|:----:|:----:|:----:|
 | |
-|Exemple|Exemple|Exemple|Exemple|Exemple|✓|✗|
+|Mafia:DE|Lassiter|V16 Roadster|~1930'|✗|
+|✗|Trekker¹|Thunder XT-7¹|2024|✗|
+|Final Fantasy XV|Quartz|Regalia<br>+2 new rims|723 ?|✗|
 
 [What does the symbol mean?](#meanings-of-the-symbols)
+¹Brand/Model name are imagined by us.
 </div>
 <br><br><br><br>
 
@@ -46,6 +87,7 @@
 |✓|Compatible • Available|
 |✗|Not Compatible • Not Available|
 |?|Not Known • To be determined|
+|~|Around • Approximately|
 </div>
 <br><br><br><br>
 
