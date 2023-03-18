@@ -21,10 +21,10 @@
 |Ferrari|Portofino|2018|✗|
 |Ferrari|Roma|2020|✗|
 |Audi|R8 V10 Spider|2020|✗|
-|Lamborghini|Countach LPI 800-4|2020|✗|
+|Lamborghini|Countach LPI 800-4|2022|✗|
 |Chevrolet|Corvette C8 Z06|2023|✗|
 |Nissan|GT-R50 Italdesign|2021|✗|
-|Pininfarina|Battista|2020|2020|✗|
+|Pininfarina|Battista|2020|✗|
 |Aston Martin|Vanquish Zagato<br>Shooting Brake|2019|✗|
 |Volkswagen|Beetle Kahakai Edition|1967|✗|
 |Bugatti|Chiron Pur Sport<br>Edition GP|2022|✗|
