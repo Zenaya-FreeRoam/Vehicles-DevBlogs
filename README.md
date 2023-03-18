@@ -12,7 +12,7 @@
 <picture><img align="right" src="https://designeya.fr/webroot/images/github_zenaya_for_real.svg" width = 250px></picture>
 <br>
 
-|BRAND|MODEL|YEAR|TUNING<br>PARTS|✓✗
+|BRAND|MODEL|YEAR|TUNING<br>PARTS|
 |:----:|:----:|:----:|:----:|
 | |
 |Audi|TT RS|2010|✓|
