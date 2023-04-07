@@ -96,11 +96,6 @@
 |✓|Scooter|Honda|Vario 150|2018|✓|✗|
 |Only based¹|Hot Air Balloon|✗|✗|✗|✗|✗|
 ||
-||
-||
-||
-||
-||
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 <br><br>
