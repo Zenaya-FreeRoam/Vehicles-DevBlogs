@@ -50,7 +50,7 @@
 |BMW|i8|2015|✗|✗|
 |Maserati|GranTurismo MC<br>Stradale|2018|✗|✗|
 |Honda|2&4 Project|2015|✗|✗|
-|Lamborghini|Huracan Evo2<br>+7 new rims|2019|✗|✓|
+|Lamborghini|Huracan Evo<br>+7 new rims|2019|✗|✓|
 |Nissan|370Z|2016|✗|✓|
 |Porsche|911 Carrera RS|1973|✗|✗|
 |Lamborghini|Diablo SV|1993|✗|✗|
