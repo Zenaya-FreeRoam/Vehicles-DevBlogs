@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[<img src="https://badgen.net/badge/0/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/0/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
+[<img src="https://badgen.net/badge/40/Real%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-real-brand-car) &nbsp;&nbsp; [<img src="https://badgen.net/badge/2/Imaginary%20Brands/?icon=https://designeya.fr/webroot/images/github_zenaya_for_cars.svg&scale=1.5&color=2C2F33&labelColor=0c6860">](#about-imaginary-brand-car)
 
 </div>
 	
@@ -49,7 +49,7 @@
 |Bentley|Brooklands|2008|✗|✗|
 |BMW|i8|2015|✗|✗|
 |Maserati|GranTurismo MC<br>Stradale|2018|✗|✗|
-|Honda|2&4 Project|2015|✗|✗| 35
+|Honda|2&4 Project|2015|✗|✗|
 |Lamborghini|Huracan Evo2<br>+7 new rims|2019|✗|✓|
 |Nissan|370Z|2016|✗|✓|
 |Porsche|911 Carrera RS|1973|✗|✗|
