@@ -55,7 +55,6 @@
 |Porsche|911 Carrera RS|1973|✗|✗|
 |Lamborghini|Diablo SV|1993|✗|✗|
 |Land Rover|Range Rover|1970|✗|✗|
-||
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 </div>
@@ -95,7 +94,6 @@
 |✓|Motorbike|KTM|Super Duke R 1290|2019|✓|✗|
 |✓|Scooter|Honda|Vario 150|2018|✓|✗|
 |Only based¹|Hot Air Balloon|✗|✗|✗|✗|✗|
-||
 
 [What does the symbol mean?](#meanings-of-the-symbols)
 <br><br>
@@ -117,7 +115,6 @@ The brand and the model you can see/read is the real model that served as inspir
 |?|Not Known • To be determined|
 |~|Around • Approximately|
 |Only based|This vehicle is only inspired by a real model.<br><br>The brand and the model you can see/read<br>is the real model that served as inspiration.|
-||
 </div>
 <br><br><br><br>
 
